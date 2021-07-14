@@ -1,2 +1,2 @@
 # Automacao
-Testes automatizados Orientados a Imagem om Sikuli
+Testes automatizados Orientados a Imagem com Sikuli
